@@ -3,7 +3,7 @@
 %define devname %mklibname kddockwidgets-qt6 -d
 
 Name:		kddockwidgets
-Version:	2.4.0
+Version:	2.4.1
 Release:	1
 Source0:	https://github.com/KDAB/KDDockWidgets/releases/download/v%{version}/kddockwidgets-%{version}.tar.gz
 Summary:	Dock Widget Framework for Qt
