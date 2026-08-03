@@ -57,3 +57,4 @@ rm -rf %{buildroot}%{_docdir} %{buildroot}%{_prefix}/mkspecs
 %{_includedir}/*
 %{_libdir}/*.so
 %{_libdir}/cmake/*
+%{_libdir}/qt6/mkspecs/modules/qt_KDDockWidgets.pri
